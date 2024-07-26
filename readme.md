@@ -51,19 +51,20 @@ The dataset includes the following variables:
 ## Note 
 -  Make Sure you run the functions to get the Output. 
 
-## Output Graphs 
-- Humidity Trend
+### Output Graphs 
+
+### Humidity Trend
 <img src="images/Humidity Trend.png"></img>
 
-- Weather Analysis (Humidity, Speed, ground_level, temp)
+### Weather Analysis (Humidity, Speed, ground_level, temp)
 <img src="images/Weather analysis1.png"></img>
 <img src="images/Weather analysis2.png"></img>
 
-- Overall Distribution of Weather in Maharashtra State
-<img src="images/Overall Distribution of Weather in state.png"></img>
+### Overall Distribution of Weather in Maharashtra State
+<img src="images/Overall Distribution of Weather in State.png"></img>
 
-- Weather Distribution City Wise
+### Weather Distribution City Wise
 <img src="images/City wise weather Distribution.png"></img>
 
-- Comparative temperature trends around Cities
+### Comparative temperature trends around Cities
 <img src="images/Temperature trends around Cities.png"></img>
