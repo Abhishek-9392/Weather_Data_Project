@@ -50,3 +50,6 @@ The dataset includes the following variables:
 
 ## Note 
 -  Make Sure you run the functions to get the Output. 
+
+
+<img src="images/Humidity Trend.png"></img>
